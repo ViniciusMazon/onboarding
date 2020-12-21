@@ -9,7 +9,7 @@
   <a href="#-licença">Licença</a>
 </p>
 <p align="center">
-	<img alt="GitHub" src="">
+	<img alt="GitHub" src="https://img.shields.io/github/license/ViniciusMazon/onboarding">
 </p>
 
 </br>
